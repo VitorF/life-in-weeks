@@ -362,3 +362,11 @@
   - name: "💼 Fer é promovida"
     category: "trabalho"  
     
+'2026-05-04':
+  - name: "🇺🇸 Viagem Las Vegas"
+    category: "Viagens"
+
+
+'2026-07-11':
+  - name: "🇺🇸 Mudança para os EUA"
+    category: "milestone"
