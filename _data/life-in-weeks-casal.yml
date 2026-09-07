@@ -355,7 +355,7 @@
     category: "Aniversário"
 
 '2026-03-05': 
-  - name: "🖋️ Assinatura contrato mudança"
+  - name: "🖋️🇺🇸 Assinatura contrato mudança"
     category: "Trabalho"
 
 '2025-03-30':
@@ -366,7 +366,26 @@
   - name: "🇺🇸 Viagem Las Vegas"
     category: "Viagens"
 
-
 '2026-07-11':
   - name: "🇺🇸 Mudança para os EUA"
     category: "milestone"
+
+'2026-07-29':
+  - name: "🏢 Pegamos a chave do South Dixie"
+    category: "milestone"    
+
+'2026-08-22':
+  - name: "🇺🇸 Viagem Orlando"
+    category: "Viagens"    
+
+'2026-08-28':
+  - name: "🇺🇸🚙 Pegamos o TAOS"
+    category: "milestone"    
+
+'2026-09-02':
+  - name: "🇺🇸🐕 Chegada do Toddy aos EUA"
+    category: "milestone"
+
+'2026-09-02':
+  - name: "💵 Ajuste"
+    category: "milestone"    
